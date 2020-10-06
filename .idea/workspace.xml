@@ -82,11 +82,8 @@
       <change afterPath="$PROJECT_DIR$/../vue-intro/style.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../vue-intro/vmSocks-blue-onWhite.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../vue-intro/vmSocks-green-onWhite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/forum-laravel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/forum-laravel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_06_192745_create_questions_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_06_192745_create_questions_table.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,7 +261,7 @@
       <workItem from="1602010192325" duration="1023000" />
       <workItem from="1602011258543" duration="157000" />
       <workItem from="1602011425588" duration="293000" />
-      <workItem from="1602011872696" duration="806000" />
+      <workItem from="1602011872696" duration="1408000" />
     </task>
     <servers />
   </component>
@@ -284,6 +281,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="713" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602017176561">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="713" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1602017176561" />
     <state x="15" y="23" key="SettingsEditor" timestamp="1602011412105">
       <screen x="0" y="23" width="1920" height="1123" />
     </state>
